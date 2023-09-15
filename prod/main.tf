@@ -12,7 +12,7 @@ provider "aws" {
 
   default_tags {
       tags = {
-          Owner = "Renato Ambrosio"
+          Owner = "Renato Ambrosio Moreira"
           Env   = "Producao"
           Class = "CLC10"
       }
